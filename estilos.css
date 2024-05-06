@@ -1,0 +1,77 @@
+body{background-color: rgb(92, 15, 128);}
+
+#Nana{ width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-color: rgb(71, 28, 83);
+    background-image:url(Nana.png);
+    background-size: 290px;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 50px;
+    border: 5px solid #b5da5f ;
+    float: left;
+    
+}
+
+#Power{ width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-color: rgb(121, 41, 87);
+    background-image:url(powi.png);
+    background-size: 590px;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 50px;
+    border: 5px solid #ff0202 ;
+    float: left;
+    
+}
+
+#Toga{ width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-color: rgb(226, 212, 129);
+    background-image:url(togui.png);
+    background-size: 410px;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 50px;
+    border: 5px solid #194b17 ;
+    float: left;
+    
+}
+
+#Nobara{ width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-color: rgb(107, 64, 39);
+    background-image:url(nobara.png);
+    background-size: 790px;
+    background-position:right;
+    background-repeat: no-repeat;
+    padding: 50px;
+    border: 5px solid #0c103d ;
+    float: left;
+    
+}
+
+body{background-image: url(y.jpg
+    );
+    background-size: cover;}
+
+    @font-face {
+        font-family:'Blank river';
+        src:url(Blank\ River.ttf);
+    }
+
+    h1{
+        font-family: Blank river;
+        font-size: 100px;
+        text-align: center;
+        text-shadow: 1px 1px 50px rgb(150, 6, 227);
+        color: rgb(207, 4, 82);
+    }
+
+    
+
